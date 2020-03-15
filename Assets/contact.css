@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+.container-fluid{
+    justify-content: flex-start;
+    background-color: white;
+}
+footer{
+    border-top: 5px solid turquoise
+}
+.navbar-brand {
+    background-color: turquoise;
+    padding: 10px;
+}

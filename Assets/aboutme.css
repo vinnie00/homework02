@@ -1,0 +1,21 @@
+img{
+    height: 100%;
+    width: 100%;
+}
+.navbar-brand{
+    background-color: turquoise;
+    padding: 10px;
+}
+footer{
+    border-top: 5px solid turquoise;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+h1{
+    color: turquoise;
+}
+.row{
+    margin: 2%;
+}
